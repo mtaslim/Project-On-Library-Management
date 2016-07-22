@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\book.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-xxhdpi\\book.png"
+    },
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\logout.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-xxhdpi\\logout.png"
+    }
+]

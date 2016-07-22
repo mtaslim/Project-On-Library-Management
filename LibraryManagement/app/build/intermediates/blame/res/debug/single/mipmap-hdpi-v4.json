@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\addbooks.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-hdpi\\addbooks.png"
+    },
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\logout.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-hdpi\\logout.png"
+    },
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\searchbooks.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-hdpi\\searchbooks.png"
+    },
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

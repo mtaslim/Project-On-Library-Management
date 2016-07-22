@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\LibraryManagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\logout.png",
+        "source": "E:\\Project\\LibraryManagement\\app\\src\\main\\res\\mipmap-mdpi\\logout.png"
+    }
+]
